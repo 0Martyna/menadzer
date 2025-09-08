@@ -1,0 +1,4 @@
+Wymagania do działania pliku .exe
+1. Środowisko Visual Studio 22 z pobranym obciążeniem - Programowanie aplikacji klasycznych w języku C++
+2. Zainstalowany WindowsAppRuntimeInstall-x64.exe - https://learn.microsoft.com/pl-pl/windows/apps/windows-app-sdk/downloads pobrany ze strony (nie jestem go w stanie załączyć z resztą plików)
+3.Plik MenadzerHaselv4.exe w dostępny w tej samej lokalizacji co reszta plików
